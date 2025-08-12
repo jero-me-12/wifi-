@@ -72,6 +72,7 @@ background-size: contain;
     background-color:rgba(20, 20, 109, 0.89);
     color:white;
     cursor:pointer;
+}
 #button{
       text-transform: capitalize;
    /* text-decoration: solid; */
@@ -183,5 +184,6 @@ th, td {
     cursor:pointer;
     background-color:rgb(20, 20, 241);
 }
+
 
 

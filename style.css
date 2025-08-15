@@ -69,7 +69,8 @@ background-size: contain;
 
 }
 #payButton:hover{
-    background-color:rgba(20, 20, 109, 0.89);
+    #payButton:hover{
+    background-color:rgba(36, 179, 67, 0.6);
     color:white;
     cursor:pointer;
 }
@@ -184,6 +185,7 @@ th, td {
     cursor:pointer;
     background-color:rgb(20, 20, 241);
 }
+
 
 
 
